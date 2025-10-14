@@ -77,6 +77,11 @@ const FOOTER_LINKS: PresetClassic.ThemeConfig['footer']['links'] = [
         label: '粤ICP备2023085392号',
         href: 'https://beian.miit.gov.cn',
       },
+      {
+        html: `<img src="/img/provider/备案图标.png" style="height: 1.5rem" /><a href="https://beian.mps.gov.cn/#/query/webSearch?code=44030002008170" rel="noreferrer" target="_blank">
+        粤公网安备44030002008170号
+        </a>`,
+      },
     ],
   },
   // {
@@ -115,7 +120,7 @@ const config: Config = {
     //   removeLegacyPostBuildHeadAttribute: true,
     // },
     experimental_faster: true,
-    v4: true
+    v4: true,
   },
 
   headTags: [
