@@ -78,14 +78,16 @@ const FOOTER_LINKS: PresetClassic.ThemeConfig['footer']['links'] = [
         href: 'https://beian.miit.gov.cn',
       },
       {
-        html: `
-        <div style="display: flex; flex-direction: row; align-items: center; gap: 0.25rem;">
-          <img src="/img/provider/备案图标.png" style="height: 1.5rem; display: inline-block;" />
-          <a href="https://beian.mps.gov.cn/#/query/webSearch?code=44030002008170" rel="noreferrer" target="_blank">
-            粤公网安备44030002008170号
-          </a>
-        </div>
-        `,
+        // html: `
+        // <div style="display: flex; flex-direction: row; align-items: center; gap: 0.25rem;">
+        //   <img src="/img/provider/备案图标.png" style="height: 1.5rem; display: inline-block;" />
+        //   <a href="https://beian.mps.gov.cn/#/query/webSearch?code=44030002008170" rel="noreferrer" target="_blank">
+        //     粤公网安备44030002008170号
+        //   </a>
+        // </div>
+        // `,
+        label: '粤公网安备44030002008170号',
+        href: 'https://beian.mps.gov.cn/#/query/webSearch?code=44030002008170',
       },
     ],
   },
