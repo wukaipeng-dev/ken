@@ -33,6 +33,7 @@ const CONTENT_CONFIG = {
 const NAVBAR_ITEMS: PresetClassic.ThemeConfig['navbar']['items'] = [
   { to: 'technique', label: '🦄 知识库' },
   { to: 'blog', label: '🌌 文章' },
+  { to: 'whale-gems', label: '🐳 鲸选' },
   // { to: 'class', label: '🐻‍❄️ 课程' },
   { to: 'english', label: '🐳 英语' },
   { to: 'read', label: '🦋 阅读' },
@@ -248,6 +249,18 @@ const config: Config = {
         ...CONTENT_CONFIG,
       },
     ]),
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'blog-whale-gems',
+        path: 'blog-whale-gems',
+        routeBasePath: 'whale-gems',
+        showReadingTime: true,
+        blogSidebarTitle: '💎',
+        blogSidebarCount: 'ALL',
+        ...MATH_CONFIG,
+      },
+    ],
   ],
 
   markdown: {
