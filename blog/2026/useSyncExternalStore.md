@@ -1,7 +1,6 @@
 ---
 slug: use-sync-external-store
 title: React 少有人知道的 useSyncExternalStore
-unlisted: true
 ---
 
 一般来说，React 的状态都来源于自身，比如通过 `useState` 创建的状态。
