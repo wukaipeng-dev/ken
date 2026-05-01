@@ -8,7 +8,7 @@ import 'dotenv/config'
 // Common configuration constants
 const SITE_CONFIG = {
   title: '楷鹏',
-  tagline: '十年的时间，除了变成中年人，我还可以做多少很酷的事',
+  tagline: '前端开发者，擅长 HTML，CSS 和 JavaScript',
   url: 'https://wukaipeng.com/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -34,7 +34,7 @@ const NAVBAR_ITEMS: PresetClassic.ThemeConfig['navbar']['items'] = [
   { to: 'technique', label: '🦄 知识库' },
   { to: 'blog', label: '🌌 文章' },
   { to: 'whale-gems', label: '🐳 鲸选' },
-  // { to: 'class', label: '🐻‍❄️ 课程' },
+  { to: 'class', label: '🐻‍❄️ 课程' },
   { to: 'english', label: '🐳 英语' },
   { to: 'read', label: '🦋 阅读' },
   {
@@ -79,14 +79,6 @@ const FOOTER_LINKS: PresetClassic.ThemeConfig['footer']['links'] = [
         href: 'https://beian.miit.gov.cn',
       },
       {
-        // html: `
-        // <div style="display: flex; flex-direction: row; align-items: center; gap: 0.25rem;">
-        //   <img src="/img/provider/备案图标.png" style="height: 1.5rem; display: inline-block;" />
-        //   <a href="https://beian.mps.gov.cn/#/query/webSearch?code=44030002008170" rel="noreferrer" target="_blank">
-        //     粤公网安备44030002008170号
-        //   </a>
-        // </div>
-        // `,
         label: '粤公网安备44030002008170号',
         href: 'https://beian.mps.gov.cn/#/query/webSearch?code=44030002008170',
       },
@@ -119,14 +111,6 @@ const config: Config = {
   trailingSlash: false,
 
   future: {
-    // experimental_faster: {
-    //   rspackBundler: true,
-    //   rspackPersistentCache: true,
-    //   ssgWorkerThreads: true,
-    // },
-    // v4: {
-    //   removeLegacyPostBuildHeadAttribute: true,
-    // },
     experimental_faster: true,
     v4: true,
   },

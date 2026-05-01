@@ -3,7 +3,7 @@ slug: class/nextjs/introduction
 title: Next.js 是干吗的？有必要学吗？？
 ---
 
-哈喽，我是楷鹏。欢迎来到 Next.js 课程。
+欢迎来到 Next.js 课程。
 
 本课程会带你由浅入深地讲解 Next.js 核心功能。
 
