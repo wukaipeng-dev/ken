@@ -1,6 +1,7 @@
 ---
 slug: infinite-chrome
 title: 如何同时打开多个 Chrome 呢？
+authors: wukaipeng
 ---
 
 哈喽，我是楷鹏。

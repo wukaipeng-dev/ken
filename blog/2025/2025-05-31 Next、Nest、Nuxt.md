@@ -1,6 +1,7 @@
 ---
 slug: next-nest-nuxt
 title: 谁分得清 Next.js、Nest.js、Nuxt.js 啊
+authors: wukaipeng
 ---
 
 作为一个前端 er，工作或者学习中，至少会遇到这么一次，需要区分 **Next.js**、**Nest.js**、**Nuxt.js** 的场景。

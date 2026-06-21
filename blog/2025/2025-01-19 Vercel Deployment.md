@@ -1,6 +1,7 @@
 ---
 slug: vercel
 title: 开源项目如何提高吸引力？试试添加 Vercel 一键部署
+authors: wukaipeng
 ---
 
 在一些成名的 GitHub 开源项目中，会支持 Vercel 一键部署，比如前两年爆火，如今坐拥 78.7k star 的 [NextChat](https://github.com/ChatGPTNextWeb/NextChat?tab=readme-ov-file)：

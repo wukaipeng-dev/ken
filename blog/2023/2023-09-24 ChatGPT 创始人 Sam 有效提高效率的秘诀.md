@@ -1,5 +1,7 @@
 ---
 slug: altman
+
+authors: wukaipeng
 ---
 
 这是一篇 ChatGPT 创始人山姆·奥特曼（Sam Altman）在 2018 年写的一篇[博客](https://blog.samaltman.com/productivity)，关于如何提升效率的有效建议。

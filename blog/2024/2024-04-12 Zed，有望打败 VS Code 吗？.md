@@ -1,5 +1,7 @@
 ---
 slug: zed
+
+authors: wukaipeng
 ---
 
 先说结论，**不行**。

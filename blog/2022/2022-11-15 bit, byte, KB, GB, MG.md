@@ -2,6 +2,7 @@
 slug: bit-byte-kb-gb-mb
 date: 2022-11-15
 title: bit, byte, KB, GB, MG, TB, PB
+authors: wukaipeng
 ---
 
 1bit 是计算机中最小的数据单位，1bit 就对应一个高低电位。

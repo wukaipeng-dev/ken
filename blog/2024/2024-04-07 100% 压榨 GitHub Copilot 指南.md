@@ -1,5 +1,7 @@
 ---
 slug: github-copilot
+
+authors: wukaipeng
 ---
 
 早在 OpenAI 推出 ChatGPT 之前，OpenAI 就已经和 GitHub 合作推出了 GitHub Copilot。

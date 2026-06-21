@@ -1,6 +1,7 @@
 ---
 slug: 2025-summary
 title: 我的 2025 年终总结
+authors: wukaipeng
 unlisted: true
 ---
 

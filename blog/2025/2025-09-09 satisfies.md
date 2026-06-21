@@ -1,6 +1,7 @@
 ---
 slug: typescript-satisfies
 title: TypeScript 为什么要增加一个 satisfies？
+authors: wukaipeng
 ---
 
 最近，在很多依赖库的类型定义文件中，经常能看到了一个陌生的朋友：`satisfies`。

@@ -1,6 +1,7 @@
 ---
 slug: utm-fusion
 title: 不花一分钱，如何在 Mac 上跑 Windows（M1/M2 版）
+authors: wukaipeng
 ---
 
 这是在 MacOS M1 上体验最新 Windows11 的效果：

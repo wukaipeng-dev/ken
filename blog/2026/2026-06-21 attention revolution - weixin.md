@@ -2,6 +2,7 @@
 slug: attention-revolution
 title: "注意力革命: 微信"
 image: "https://img.wukaipeng.com//2026/06/21-171801-tm4LDr-cover-twitter-1782033450558.png"
+authors: wukaipeng
 ---
 
 ![](https://img.wukaipeng.com//2026/06/21-171801-tm4LDr-cover-twitter-1782033450558.png)
