@@ -2,7 +2,7 @@
 slug: attention-revolution
 title: "The Attention Revolution: WeChat"
 image: "https://img.wukaipeng.com//2026/06/21-171801-tm4LDr-cover-twitter-1782033450558.png"
-authors: wukaipeng
+authors: kaypen
 ---
 
 ![](https://img.wukaipeng.com//2026/06/21-171801-tm4LDr-cover-twitter-1782033450558.png)
