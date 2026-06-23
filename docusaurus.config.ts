@@ -4,6 +4,7 @@ import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
 import { themes } from 'prism-react-renderer'
 import 'dotenv/config'
+import recentPostsPlugin from './src/plugins/recent-posts'
 
 // Common configuration constants
 const SITE_CONFIG = {
@@ -245,6 +246,7 @@ const config: Config = {
         ...MATH_CONFIG,
       },
     ],
+    recentPostsPlugin,
   ],
 
   markdown: {

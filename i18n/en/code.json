@@ -1,4 +1,19 @@
 {
+  "recentPosts.sectionTitle": {
+    "message": "Discover Latest Updates"
+  },
+  "recentPosts.latestBlogs": {
+    "message": "Latest Posts"
+  },
+  "recentPosts.latestDocs": {
+    "message": "Latest Docs"
+  },
+  "recentPosts.noBlogs": {
+    "message": "No recent posts"
+  },
+  "recentPosts.noDocs": {
+    "message": "No recent docs"
+  },
   "homepage.title": {
     "message": "Home",
     "description": "The home page title"

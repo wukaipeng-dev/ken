@@ -6,6 +6,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 // import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import HomepageHeader from '../components/HomepageHeader';
+import RecentPosts from '../components/RecentPosts';
 // import Car from '../components/Car';
 // import Project from '../components/Project';
 
@@ -19,6 +20,7 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         {/* <Car /> */}
+        <RecentPosts />
       </main>
     </Layout>
   );

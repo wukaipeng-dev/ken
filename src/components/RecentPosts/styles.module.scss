@@ -1,0 +1,94 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.recentPosts {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .recentPosts {
+    padding: 2rem;
+  }
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 2rem;
+}
+
+.columns {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  text-align: left;
+}
+
+@media screen and (max-width: 996px) {
+  .columns {
+    flex-direction: column;
+  }
+}
+
+.column {
+  flex: 1;
+  max-width: 50%;
+}
+
+@media screen and (max-width: 996px) {
+  .column {
+    max-width: 100%;
+  }
+}
+
+.columnTitle {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.columnIcon {
+  font-size: 1.5rem;
+}
+
+.postList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.postItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.postLink {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  line-height: 1.4;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.postDate {
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.85rem;
+}
+
+.emptyMessage {
+  color: var(--ifm-color-emphasis-600);
+}
