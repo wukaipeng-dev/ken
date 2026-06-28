@@ -1,0 +1,8 @@
+{
+  "label": "基础：OpenAI 官方教程",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "OpenAI 提示词工程指南，讲解官方推荐的六大最佳实践"
+  }
+}

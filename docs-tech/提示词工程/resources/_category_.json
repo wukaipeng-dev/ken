@@ -1,0 +1,8 @@
+{
+  "label": "📶 相关资源",
+  "position": 99,
+  "link": {
+    "type": "generated-index",
+    "description": "这是包括了所有相关资源的索引"
+  }
+}
